@@ -1,0 +1,21 @@
+{
+  "name": "serialize-stl-ascii",
+  "version": "1.0.0",
+  "description": "STL ASCII serialization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stl",
+    "ascii",
+    "format",
+    "buffer",
+    "mesh"
+  ],
+  "author": "thibauts",
+  "license": "MIT",
+  "dependencies": {
+    "normals": "^1.0.1"
+  }
+}
