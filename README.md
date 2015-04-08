@@ -2,7 +2,7 @@ serialize-stl-ascii
 ===================
 ### STL ASCII serialization
 
-Produces a [STL](http://en.wikipedia.org/wiki/STL_%28file_format%29) (STereoLithography) ASCII string from a mesh.
+Produces a [STL](http://en.wikipedia.org/wiki/STL_%28file_format%29) (STereoLithography) ASCII string from a mesh. Face normals are computed internally if not provided.
 
 Install
 -------
